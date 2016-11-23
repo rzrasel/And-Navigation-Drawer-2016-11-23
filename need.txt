@@ -1,0 +1,3 @@
+https://guides.codepath.com/android/Fragment-Navigation-Drawer
+http://blog.teamtreehouse.com/add-navigation-drawer-android
+http://ticons.fokkezb.nl/
